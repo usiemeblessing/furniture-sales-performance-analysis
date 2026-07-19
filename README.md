@@ -1,17 +1,17 @@
-# 📊 Supermarket Sales Performance Analysis
+# 📊 Furniture Sales Performance Analysis
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-> A comprehensive supermarket sales performance analytics project using **Microsoft Excel** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional Supermarket.
+> A comprehensive furniture sales performance analytics project using **Microsoft Excel** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional furniture company.
 
-![Dashboard Preview](visuals/supermarket-sales-performance-excel-dashboard-overview.png)
+![Dashboard Preview](visuals/furniture-sales-performance-excel-dashboard-overview.png)
 
 ---
 
 ## 📖 Project Overview
 
-This project analyzes **1,000 retail transactions** from a fictional supermarket.
+This project analyzed **2,121 retail transactions** from a fictional furniture company.
 
 The objective was to uncover sales trends, evaluate regional and product performance, understand customer purchasing behaviour, and provide actionable recommendations through data analysis and interactive dashboards.
 
@@ -21,7 +21,7 @@ The project employed and demonstrates the analytics steps of data cleaning, colu
 
 ## 🎯 Business Problem
 
-Although the Supermarket has experienced consistent revenue growth, management identified that some regions and product categories continue to underperform.
+Although the Company has experienced consistent revenue growth, management identified that some regions and product categories continue to underperform.
 
 As a Data Analyst, I was tasked with identifying performance gaps between sales by Cities, branches, customer types and product lines, I also had to uncover sales patterns over time, establish customers' payment methods, and recommend strategies to improve profitability and operational efficiency.
 
@@ -79,7 +79,7 @@ This analysis answers the following questions:
 
 ### Excel Dashboard
 
-![Excel Dashboard](visuals/supermarket-sales-performance-excel-dashboard-overview.png)
+![Excel Dashboard](visuals/furniture-sales-performance-excel-dashboard-overview.png)
 
 ---
 
