@@ -21,8 +21,7 @@ The project employed and demonstrates the analytics steps of data cleaning, colu
 
 ## 🎯 Business Problem
 
-Although the Company has experienced consistent revenue growth, management identified that some regions and product categories continue to underperform.
-
+Although the Company has experienced consistent revenue growth, management identified that some regions and product categories continue to underperform and wants to know how sales were performig by product, customer, location, payment method and time.
 As a Data Analyst, I was tasked with identifying performance gaps between sales by Cities, branches, customer types and product lines, I also had to uncover sales patterns over time, establish customers' payment methods, and recommend strategies to improve profitability and operational efficiency.
 
 ---
