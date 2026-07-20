@@ -1,4 +1,4 @@
-# 📊 Furniture Sales Performance Analysis
+<img width="298" height="41" alt="image" src="https://github.com/user-attachments/assets/8336515d-db4b-4bc9-bb10-4130a77e8366" /># 📊 Furniture Sales Performance Analysis
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -47,9 +47,9 @@ This analysis answers the following questions:
 
 | Attribute | Description |
 |-----------|-------------|
-| Dataset | supermarket-raw-dataset.csv |
-| Records | 1,000 |
-| Period | 2019|
+| Dataset | furniture-sales-dataset.xlsx |
+| Records | 2,121 |
+| Period | 2014 - 2018 |
 | Industry | Retail / E-Commerce |
 | Company |  Fictional |
 
@@ -85,25 +85,27 @@ This analysis answers the following questions:
 
 ## 📈 Key Performance Indicators (KPIs)
 
-- **Total Sales:** $323.0K
-- **Total Profit:** $15.4K
-- **Total Transactions:** 1,000
-- **Total Quantity Sold:** 5,510
-- **Average Order Value:** $323
-- **Average Customer Rating:** 7.0
-
+- **Total Sales:** $215.4K
+- **Total Profit:** $3.0K
+- **Total Order:** 686
+- **Total Quantity Sold:** 2,437
+- **Average Order:** 314
+- 
 ---
 
 ## 💡 Key Insights
 
 This analysis uncovered the following insights:
 
-1. The business recorded $323K in revenue from 1,000 orders with an average order value of $323.
-2. Napyitaw City generated the highest revenue, contributing $110.6K of total sales.
-3. Foods and Beverages was the best-performing product line, accounting for $56.1K of total revenue.
-4. Revenue peaked in January and was lowest in February, indicating seasonal demand.
-5. Customers by **Member** type generated the highest revenue.
-6. Ewallet Method was the most preferred payment option, representing 35% of all transactions.
+1. The business recorded $215.4K in revenue from 686 orders with an average order of 314 with 8% YoY increase.
+2. Sales are concentrated in key markets, with California leading.
+3. Profit lags despite rapid sales growth with 57%YoY decrease.
+4. Consumer segment contributes  53% of total sales.
+5. Chairs generate the highest revenue among sub-categories.
+6. Standard shipping accounts for majority of orders at 59%.
+7. Total Orders increased by 22%YoY, yet there's decline in profit
+8. Average Order decrease by 11%YoY, yet Quantity of products sold increased by same value YoY.
+
 
 
 ---
@@ -112,13 +114,13 @@ This analysis uncovered the following insights:
 
 Below are the recommendations made from the analysis:
 
-1. Increase inventory and marketing investment in Foods and Beverages to maximize revenue.
-2. Replicate high-performing regional sales strategies in lower-performing markets.
-3. Launch targeted promotions during low-demand months to stabilize seasonal sales.
-4. Strengthen loyalty programs for high-value customers to improve customer retention.
-5. Prioritize stocking and promoting top-performing products while reviewing underperformers.
-6. Optimize the most-used payment channels to improve checkout experience.
-7. Leverage sales forecasting to optimize inventory, reduce stockouts, and sustain revenue growth.
+1. To be updated
+2. To be updated
+3. To be updated
+4. To be updated
+5. To be updated
+6. To be updated
+7. To be updated
 
 
 ---
