@@ -1,4 +1,4 @@
-<img width="298" height="41" alt="image" src="https://github.com/user-attachments/assets/8336515d-db4b-4bc9-bb10-4130a77e8366" /># 📊 Furniture Sales Performance Analysis
+# 📊 Furniture Sales Performance Analysis
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
