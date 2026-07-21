@@ -145,6 +145,8 @@ supermarket-sales-performance-analysis/
 
 **Blessing Usieme**
 
-**Data Analyst | Business Intelligence**
+**Data Analyst - Business Intelligence | Data Visualization and Storytelling**
 
 GitHub: https://github.com/usiemeblessing
+
+LinkedIn: https://linkedin.com/in/blessing-usieme-b31b32396
